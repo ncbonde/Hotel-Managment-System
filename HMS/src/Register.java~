@@ -1,0 +1,21 @@
+import java.awt.*;
+import java.awt.event.*;
+
+import javax.swing.*;
+class singIn implements ActionListener
+{
+	singIn()
+	{
+		Panel p=new Panel();
+		p.setLayout(null);
+		
+		
+		
+	}
+	public void actionPerformed(ActionEvent ae)
+	{
+		
+	}
+	
+	
+}
