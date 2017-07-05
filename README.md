@@ -1,2 +1,2 @@
 # Hotel-Managment-System
-Desktop Application to handle hotel business easily.
+It is desktop Application to handle hotel business easily.
